@@ -1,9 +1,16 @@
-package ejercicio13introjava;
+package ejercicio23introjava;
 
-public class Ejercicio13IntroJava {
+public class Ejercicio23IntroJava {
 
     public static void main(String[] args) {
 
+        // 23. Realizar un programa que rellene un matriz de 4 x 4 de valores aleatorios y muestre 
+        // la traspuesta de la matriz. 
+        
+        // 2. Definir una Clase que contenga algún tipo de dato de tipo array y agregue el código 
+        // para generar y capturar una excepción ArrayIndexOutOfBoundsException (índice de arreglo 
+        // fuera de rango). 
+        
         int[][] matriz = new int[4][4];
 
         int[][] matriztranspuesta = new int[4][4];
